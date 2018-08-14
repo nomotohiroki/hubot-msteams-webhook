@@ -1,15 +1,15 @@
 {
-  "name": "hubot-msteams",
+  "name": "hubot-msteams-webhook",
   "version": "1.0.0",
   "main": "src/msteams.coffee",
   "license": "MIT",
   "author": "nomotohiroki",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nomotohiroki/hubot-msteams.git"
+    "url": "https://github.com/nomotohiroki/hubot-msteams-webhook.git"
   },
   "bugs": {
-    "url": "https://github.com/nomotohiroki/hubot-msteams/issues"
+    "url": "https://github.com/nomotohiroki/hubot-msteams-webhook/issues"
   },
   "dependencies": {
     "git-repo-info": "^2.0.0",
