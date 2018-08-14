@@ -1,0 +1,6 @@
+rooms:
+  - name: sample_room1
+    url: https://outlook.office.com/webhook/this_is_sample
+  - name: sample_room2
+    url: https://outlook.office.com/webhook/this_is_sample
+

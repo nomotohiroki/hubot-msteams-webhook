@@ -1,0 +1,18 @@
+{
+  "name": "hubot-msteams",
+  "version": "1.0.0",
+  "main": "src/msteams.coffee",
+  "license": "MIT",
+  "author": "nomotohiroki",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nomotohiroki/hubot-msteams.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nomotohiroki/hubot-msteams/issues"
+  },
+  "dependencies": {
+    "git-repo-info": "^2.0.0",
+    "js-yaml": "^3.12.0"
+  }
+}
